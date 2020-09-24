@@ -1,0 +1,472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"stud",
+				"stud_name"
+			],
+			[
+				"fu",
+				"fullname"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"Con",
+				"Contact"
+			],
+			[
+				"f",
+				"fullname"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"She",
+				"shells"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"C",
+				"Contact"
+			],
+			[
+				"she",
+				"shellObject"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"S",
+				"Shells"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"s",
+				"shells"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"ce",
+				"cells"
+			],
+			[
+				"lo",
+				"logotype"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"View Package File"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"v ",
+				"View Package File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"dir",
+			"cd",
+			"php artisan serve",
+			"php -r \"copy('https://getcomposer.org/installer', 'composer-setup.php');\"",
+			"info",
+			"/help",
+			"help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/W/domains/alifhomework/blog/resources/views/stud_create.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/folders.blade.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/FileController.php",
+		"/W/domains/alifhomework/blog/app/Http/routes.php",
+		"/W/domains/alifhomework/blog/resources/views/stud_view.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/stud_update.blade.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/StudDeleteController.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/StudUpdateController.php",
+		"/W/domains/alifhomework/blog/resources/views/welcome.blade.php",
+		"/W/domains/alifhomework/blog/app/StudInsert.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/StudInsertController.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/test.php",
+		"/W/domains/alifhomework/blog/vendor/laravel/framework/src/Illuminate/Support/Collection.php",
+		"/W/domains/alifhomework/blog/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/StudViewController.php",
+		"/W/domains/alifhomework/blog/resources/views/home.blade.php",
+		"/W/domains/alifhomework/blog/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/W/domains/alifhomework/blog/vendor/laravel/framework/src/Illuminate/View/View.php",
+		"/W/domains/alifhomework/blog/resources/views/cells.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/upload-form.blade.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/UploadController.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/SearchController.php",
+		"/W/domains/alifhomework/blog/resources/views/user/partials/userblock.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/search/results.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/shells.blade.php",
+		"/W/domains/alifhomework/blog/app/User.php",
+		"/W/domains/alifhomework/blog/app/Users.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/ShellsController.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/ContactController.php",
+		"/W/domains/alifhomework/blog/resources/views/files.blade.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/CellsController.php",
+		"/W/domains/alifhomework/blog/app/Shells.php",
+		"/W/domains/alifhomework/blog/app/Cells.php",
+		"/W/domains/alifhomework/blog/app/Folders.php",
+		"/W/domains/alifhomework/blog/app/Pages.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/ShellController.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/PagesController.php",
+		"/W/domains/alifhomework/blog/.env",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/UploadFileController.php",
+		"/W/domains/alifhomework/blog/resources/views/uploadfile.php",
+		"/W/domains/alifhomework/blog/resources/views/uploadfsile.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/uploadfile.blade.php",
+		"/W/domains/alifhomework/blog/app/Models/Search.php",
+		"/W/domains/alifhomework/blog/app/Http/Controllers/Controller.php",
+		"/W/domains/alifhomework/blog/resources/views/inc/search.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/app.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/search/search.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/index.blade.php",
+		"/W/domains/alifhomework/blog/database/migrations/2020_09_21_062656_create_search_table.php",
+		"/W/domains/alifhomework/blog/database/migrations/2020_09_21_062656_create_searches_table.php",
+		"/W/modules/system/html/openserver/phpmyadmin/config.inc.php",
+		"/C/Users/THANATOS/Desktop/TopTal.txt",
+		"/W/domains/alifhomework/blog/resources/views/add/folder9.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder8.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder7.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder6.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder5.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder4.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder10.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder11.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder12.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder2.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder3.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/inc/cell6.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/inc/cell5.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/inc/cell4.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/inc/cell3.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/inc/cell2.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/inc/cell.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/folder1.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/cell6.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/cell5.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/cell4.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/cell3.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/cell2.blade.php",
+		"/W/domains/alifhomework/blog/resources/views/add/cell1.blade.php",
+		"/C/Users/THANATOS/Desktop/в 1стр несколько стр.php",
+		"/C/Users/THANATOS/Downloads/composer.phar",
+		"/C/Users/THANATOS/Downloads/installer",
+		"/C/Users/THANATOS/Desktop/JOB's applyng.txt",
+		"/W/domains/localhost/index.php",
+		"/C/Users/THANATOS/Desktop/Web Archive_files/f(2).txt",
+		"/C/Users/THANATOS/Desktop/Web Archive_files/f(1).txt",
+		"/C/Users/THANATOS/Desktop/Web Archive.html",
+		"/F/Work шаба сайт/Templates/0-1xxx/0001/0001/html/index.html",
+		"/F/Games/Launcher/update_log.txt",
+		"/F/Games/Launcher/__log.txt",
+		"/C/Users/THANATOS/Desktop/New Text Document.txt",
+		"/C/Users/THANATOS/AppData/Local/Temp/Rar$DIa0.270/Для разработчика.txt",
+		"/C/Users/THANATOS/Desktop/Для разработчика.txt",
+		"/F/Work шаба сайт/Шаблоны HTML для почты/шаблон html письма/шаблон html письма/читать!!!.txt",
+		"/F/Work шаба сайт/Шаблоны HTML для почты/hero/email_html2/.DS_Store",
+		"/F/Work шаба сайт/Шаблоны HTML для почты/hero/email_html2/stylesheets/email.css",
+		"/E/icons.less",
+		"/F/Work шаба сайт/Templates HTML/1/1/foundation/license.txt",
+		"/C/Users/THANATOS/AppData/Local/Temp/_tc/wordpress/license.txt",
+		"/C/Users/THANATOS/AppData/Local/Temp/WPDNSE/{8115EF6A-0000-0000-0000-000000000000}/All Documents Viewer-1.4.6-backup-export-all.JSON.txt",
+		"/F/Видеоуроки/C-Sharp 2016/2. C#_yroven.1/Урок 7. Введение в Windows Forms/l7.txt",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/css/style.css",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/css/fm.revealator.jquery.css",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/css/component.css",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/css/bootstrap.css",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/css/animate.css",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/errors/style.css",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/errors/php_error.log",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/errors/500.html",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/errors/404.html",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/errors/400.html",
+		"/C/Users/THANATOS/Desktop/2017-2018yProjects/index.html",
+		"/C/Users/THANATOS/Desktop/2017yProject/indexrus.html",
+		"/C/Users/THANATOS/Desktop/2017yProject/add/contact.php",
+		"/C/Users/THANATOS/Desktop/2017yProject/add/config.php",
+		"/C/Users/THANATOS/Desktop/2017yProject/errors/style.css",
+		"/C/Users/THANATOS/Desktop/2017yProject/errors/500.html",
+		"/C/Users/THANATOS/Desktop/2017yProject/errors/404.html",
+		"/C/Users/THANATOS/Desktop/2017yProject/errors/400.html",
+		"/C/Users/THANATOS/Desktop/2017yProject/robots.txt",
+		"/C/Users/THANATOS/Desktop/2017yProject/opensearch.xml",
+		"/C/Users/THANATOS/Desktop/2017yProject/dublin.rdf",
+		"/C/Users/THANATOS/Desktop/2017yProject/.htaccess",
+		"/F/Limited Liability Company/Archive/Global Study System LLC/Global Study System LLC/gstudy.uz/indexrus.html",
+		"/C/Users/THANATOS/Desktop/2016yProject/js/jquery.banner.js",
+		"/C/Users/THANATOS/Desktop/2016yProject/js/easing.js",
+		"/C/Users/THANATOS/Desktop/2016yProject/js/cufon-yui.js",
+		"/C/Users/THANATOS/Desktop/2016yProject/js/Bebas_400.font.js",
+		"/C/Users/THANATOS/Desktop/2016yProject/js/allinone_contentSlider.js",
+		"/C/Users/THANATOS/Desktop/2016yProject/errors/php_error.log",
+		"/C/Users/THANATOS/Desktop/2016yProject/errors/style.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"W:\\domains\\alifhomework\\blog\\app",
+			"W:\\domains\\alifhomework\\blog\\app\\Http\\Controllers",
+			"W:\\domains\\alifhomework\\blog\\app",
+			"W:\\domains\\alifhomework\\blog"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"student",
+			"inser",
+			"user",
+			";\n",
+			"stud_inserts",
+			"insertform",
+			"test",
+			"class test extends Controller",
+			"test.php",
+			"stud_view",
+			"<!",
+			"edit-records",
+			"request"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.blade.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
